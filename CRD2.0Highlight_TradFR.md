@@ -6,7 +6,7 @@
 
 - [1. Première partie – Changements de règles](#1.)
     - [1) Les conditions secondaires ("si") sont plus faciles](#1.1.)
-    - [2) "Gratuitement est désormais un coût alternatif](#1.2.)
+    - [2) "Gratuitement" est désormais un coût alternatif](#1.2.)
     - [3) "Reçoit des dommages" et "a subi des dommages"](#1.3.)
     - [4) Vous perdez maintenant sans carte dans la pioche à la fin de votre tour](#1.4.)
     - [5) Les effets de remplacement sont simplifiés](#1.5.)
@@ -69,8 +69,8 @@ Nous allons parler des règles qui ont été explicitement modifiées par rappor
 
 Depuis la version 2.0 du CRD, les conditions secondaires ne sont vérifiées *que* lors de la résolution d'une capacité depuis le sac. Il est ainsi beaucoup plus facile d'utiliser votre maîtrise du jeu lors de l'enchaînement de résolution de plusieurs capacités déclenchées. Auparavant, une condition secondaire comme « si vous avez un personnage nommé Elsa en jeu » devait être vraie *à la fois* lors du déclenchement et de la résolution de la capacité pour que celle-ci se résolve effectivement. Désormais, cette vérification n'est effectuée qu'une seule fois, lors de la résolution de la capacité.
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-014" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-024" width="250" style="border-radius: 10px;" /></p>
 
 Vous jouez un deck original en Infinity, et votre adversaire vient de raser votre zone de jeu avec *Soyez prêtes*. Heureusement, vous aviez trois exemplaires de *Mufasa – Roi trahi* en jeu. Trois exemplaires de *"Le soleil éteindra sur moi sa lumière"* vont dans le sac et vous commencez à les résoudre. La première carte du dessus de la pioche est un exemplaire de *Stitch – Surfeur insouciant* , dont la capacité vous permet de piocher 2 cartes si vous avez au moins 2 autres personnages en jeu au lorsque vous le jouez. Ce « si » dans « si vous avez au moins 2 autres personnages en jeu », est une condition secondaire.
@@ -78,13 +78,14 @@ Vous jouez un deck original en Infinity, et votre adversaire vient de raser votr
 Actuellement, vous n'avez aucun autre personnage en jeu, donc sa capacité ne pourrait pas être mis dans le sac selon les anciennes règles. Mais avec le CRD 2.0, c'est possible ! Vous pouvez le garder pour plus tard. Vous résolvez une autre capacité de *Mufasa* et révélez une autre copie de *Stitch*, dont la capacité n'aurait pas pu être mis dans le sac selon les anciennes règles, mais qui le peut désormais. Vous résolvez le dernier *Mufasa*, en jouant un autre *Stitch*, qui était auparavant le seul *Stitch* dont la capacité aurait pu être résolu puisque vous avez maintenant deux autres personnages en jeu – sa condition secondaire est vraie lorsqu'il se déclenche.
 
 Mais passons aux choses sérieuses ! Vous vérifiez toutes les conditions secondaires à mesure que nous résolvons la capacité de chaque *Stitch*. Avez-vous deux autres personnages en jeu lors de la résolution de la première capacité ? Oui ! Piochez ! Avez-vous deux autres personnages en jeu lors de la résolution de la deuxième ? Oui ! Piochez *encore* ! Avez-vous deux autres personnages en jeu lors de la résolution de la troisième ? Oui ! Piochez *encore* ! Avec le CRD 2.0, vous pouvez résoudre les trois capacités et obtenir les six cartes !
+</details>
 
 ```
 6.2.4. - Some triggered abilities are written as “[Trigger Condition], if [Secondary Condition], [Effect].” Such an ability checks whether the secondary condition is true only when the effect resolves. If the condition is false, the ability resolves with no effect. If an ability has multiple “if [Secondary Conditions],” all of them are checked as the effect resolves.
 ```
 
 <a name="1.2."></a>
-### 2) "Gratuitement est désormais un coût alternatif
+### 2) "Gratuitement" est désormais un coût alternatif
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-177" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-233" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-225" width="250" style="border-radius: 10px;" /></p>
 
@@ -92,13 +93,14 @@ Auparavant, il était possible de choisir de payer des coûts alternatifs lorsqu
 
 Cela modifie également le type de coûts que « gratuitement » permet d'éviter. Auparavant, seuls les coûts en encre étaient concernés, mais désormais, tous les coûts, à l'exception de l'épuisement, sont couverts. Il s'agit assurément d'un point à surveiller de près, car nous pourrions voir apparaître davantage d'effets permettant d'activer gratuitement les capacités des cartes en jeu !
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://wiki.mushureport.com/images/d/d0/RetroEvolutionDevice-11-100FR.png" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-111" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, il était possible d'utiliser le *Rétro-Fusil à Evolution* pour bannir un de vos personnages avec un coût de 1 pour jouer *Mickey Mouse – Brave petit prince* en Alter sur une autre version de *Mickey Mouse* déjà en jeu. Cela permettait de profiter immédiatement des avantages de *Couronné de gloire* sans payer son coût d'Alter.
 
 Maintenat, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque vous jouez le nouveau *Mickey Mouse* ; il ne peut donc entrer en jeu qu'en tant que nouveau personnage, sans les avantages de *Couronné de gloire*.
+</details>
 
 ```
 1.5.5.3 - An ability or effect that allows a player to play a card “for free” is an alternate cost and means they may play that card without paying its cost.
@@ -119,13 +121,15 @@ Alors… que signifie « recvoir des dommages » ? C’est nouveau aussi ! « Re
 
 >NdT : Le verbe « recevoir »  est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre »  ou toute autre traduction valable de « to take » . La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir »  qui est la traduction du terme anglais « to be dealt » , et donc ne correspond pas au comportement prévu par la capacité de Lilo.
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-096" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-218" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, si vous activiez *Le Diamant Œil-du-Diable* après avoir utilisé *Piqûre de moustique* pour mettre un marqueur de dommages à l'un de vos personnages, vous ne gagniez pas de lore. En effet, *Piqûre de moustique* n'inflige pas de dommages, *Le Diamant Œil-du-Diable* ne pouvait donc pas voir que votre personnage avait « subi des dommages » .
 
 Maintenant que « a été endommagé » est équivalent à « a reçu des dommages », et que « recevoir » couvre toutes les formes d'application des dommages, cette (très mauvaise) combo fonctionnera finalement.
+</details>
+
 ```
 1.9.1.5. - Take – A character or location takes damage whenever damage is dealt to, put on, or moved to that character or location.
 1.9.2. - Some card text refers to a character or location that “is damaged,” “was damaged,” “is dealt damage,” or “was dealt damaged.” These references mean the same as “takes damage” for cards printed with that text.
@@ -139,13 +143,15 @@ Vous ne perdrez plus la partie lors du prochain Contrôle de l'Etat du Jeu si vo
 
 Remarque : cela ne signifie pas lorsque vous déclarez votre fin de tour. Vous disposez également d'une phase de fin de tour pour remettre des cartes dans votre pioche, si possible. Un Contrôle de l'Etat du Jeu a lieu après cette phase, et c'est lui qui vous fera perdre si votre pioche est vide.
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/001-195" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/e6e0207ec80e7babd50c6ef488e7b644081ce170" width="250" style="border-radius: 10px;" /></p>
 
 Vous et votre adversaire avez presque vidé vos pioches, et vous jouez *Ce rêve bleu*, obligeant chaque joueur à piocher ses quatre dernières cartes. Selon les anciennes règles, les deux joueurs perdent la partie lors du prochain contrôle de l'état du jeu, et comme vous êtes le joueur actif, vous perdriez en premier et perdriez officiellement la partie.
 
 Avec les nouvelles règles, vous pouvez toujours jouer la carte *Viens te battre !* que vous venez de piocher, en remettant cinq cartes dans votre pioche grâce à un *Chat du Cheshire – Inexplicable* (et en piochant une autre). Le tour se termine et vous évitez la défaite car votre pioche n'est plus vide. Votre adversaire parviendra-t-il à remettre des cartes dans sa pioche et à échapper à son destin ?
+</details>
+
 ```
 1.8.1.2. - If a player’s turn ends with no cards in their deck, that player loses the game.
 ```
@@ -176,11 +182,12 @@ De plus, comme il ne s'agit plus de Coûts, ils peuvent être affectés par d'au
 
 Vous aurez peut-être remarqué que j'ai utilisé le mot « en général » dans le titre de cette section : c'est parce que si les effets [A] impliquent de payer de l'encre, cela est tout de même considéré comme un Coût (comme *Pongo – Père persévérant*). Je vous avais prévenu que c'était un cas particulier.
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/007-063" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-051" width="250" style="border-radius: 10px;" /></p>
 
 Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure avec *Maléfique – Fêtarde véxée*, vous allez rencontrer quelques problèmes. Auparavant, choisir et défausser une carte pour *Un fâcheux oubli* n'était pas affecté par *Qu'est-ce que je m'amuse*, car cela était considéré comme un Coût, et non comme un effet. Désormais, il s'agit simplement d'un effet séquentiel, ce qui signifie que *Kronk* vous empêche de défausser une carte. Vous ne pourrez donc jamais résoudre avec succès la capacité de *Maléfique* pour utiliser le second effet de renvoyer une carte choisie dans la main de son propriétaire tant que *Kronk* est en jeu. Dommage.
+</details>
 
 ```
 6.1.5. - Some effects are considered sequential effects. These effects require a player to make a decision or pay a cost in order to resolve them. These are normally written as “[A] to [B], “[A] or [B],” or “[A]. If you do, [B].” Note that both [A] and [B] can have multiple parts.
@@ -229,14 +236,15 @@ Les règles précisent désormais clairement que les effets qui déplacent les d
 
 Les règles comprennent désormais une section expliquant comment calculer les modificateurs de caractéristique lorsque cette caractéristique « ne peut pas être réduite en dessous » d'une valeur spécifique. Concrètement, on additionne d'abord tous les modificateurs positifs et négatifs, puis on compare le résultat à la valeur limite ; si le résultat est inférieur à cette valeur, alors la caractéristique prend cette valeur. La restriction n'affecte pas le calcul tant qu'il n'est pas fini.
 
-**Voici un exemple** :
-
+<details>
+    <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/502efcc20b5e07ec007158eb8c10fcdb5dd4d46e" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-174" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-043" width="250" style="border-radius: 10px;" /></p>
 
 
 Vous avez *Elisa Maza* en jeu, ce qui empêche la Force de vos personnages de descendre en dessous de leur valeur imprimée. Votre adversaire choisit le *Capitaine Crochet* pour l'effet de *Je travaillerai sans trêve*. La Force de *Crochet* est actuellement affectée par un modificateur de -4, mais reste à 1 car c'est sa valeur imprimée.
 
 À votre prochain tour, vous choisissez de défier *Crochet*, ce qui ajoute son bonus d'Offensif +2 à sa Force. Sa Force est désormais de 1, avec un modificateur de -4 et un modificateur de +2, soit un total de -1. Cependant, sa Force ne peut toujours pas descendre en dessous de sa valeur initiale de 1 ; il inflige donc 1 dommage lors de son défi.
+</details>
 
 ```
 6.6.4. - If an effect says a characteristic “can’t be reduced below” a specified value, that characteristic’s value can’t be less than the specified value after modifiers to determine that characteristic’s value have been applied.
