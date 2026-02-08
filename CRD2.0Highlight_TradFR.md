@@ -41,7 +41,7 @@
 
 ---
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRicGxmanRkeHI2Y3U5ZXJnMGs4NjRmam5yZnNlMG9sazBwMTN1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9VkusmHdKHuAE/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRicGxmanRkeHI2Y3U5ZXJnMGs4NjRmam5yZnNlMG9sazBwMTN1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9VkusmHdKHuAE/giphy.gif" /></p>
 
 Nous avons enfin reçu la version restructurée de façon approfondie du Document de Règles Complètes de Lorcana, appellé dans cet article CRD 2.0 pour "Comprehensive Rules Document version 2.0", et nous allons aborder tous les points essentiels que vous devez connaître en tant que joueur et Lore Guide afin  d'aborder sereinement la meta de Givresort.
 
@@ -51,27 +51,27 @@ J'ai également inclus les nouvelles références réglementaires pour ces mises
 
 Allons-y !
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0aGJ0YjdwMms2d3lodm83NjVtaW1rYXVocTFudzByaHJyem5tcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ea8s9YsTCKLhm/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0aGJ0YjdwMms2d3lodm83NjVtaW1rYXVocTFudzByaHJyem5tcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ea8s9YsTCKLhm/giphy.gif" /></p>
 
 ---
 
 <a name="1."></a>
 ## Première partie – Changements de règles
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdheXF1OTk1NDI5ZzhubTJzc3RwdWl3ZWw2aWhkY2JvaGs1dDcwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zxxXYJqTlpBnO/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdheXF1OTk1NDI5ZzhubTJzc3RwdWl3ZWw2aWhkY2JvaGs1dDcwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zxxXYJqTlpBnO/giphy.gif" /></p>
 
 Nous allons parler des règles qui ont été explicitement modifiées par rapport à la façon dont les choses se passaient précédemment. Cette section est *très* importante, si vous ne devez rien lire d'autre, lisez au moins celle-ci. Elle *aura* un impact sur vos parties.
 
 <a name="1.1."></a>
 ### 1) Les conditions secondaires ("si") sont plus faciles
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/008-072" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-072" width="250" style="border-radius: 10px;" /></p>
 
 Depuis la version 2.0 du CRD, les conditions secondaires ne sont vérifiées *que* lors de la résolution d'une capacité depuis le sac. Il est ainsi beaucoup plus facile d'utiliser votre maîtrise du jeu lors de l'enchaînement de résolution de plusieurs capacités déclenchées. Auparavant, une condition secondaire comme « si vous avez un personnage nommé Elsa en jeu » devait être vraie *à la fois* lors du déclenchement et de la résolution de la capacité pour que celle-ci se résolve effectivement. Désormais, cette vérification n'est effectuée qu'une seule fois, lors de la résolution de la capacité.
 
 **Voici un exemple** :
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/002-014" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-024" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-014" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-024" width="250" style="border-radius: 10px;" /></p>
 
 Vous jouez un deck original en Infinity, et votre adversaire vient de raser votre zone de jeu avec *Soyez prêtes*. Heureusement, vous aviez trois exemplaires de *Mufasa – Roi trahi* en jeu. Trois exemplaires de *"Le soleil éteindra sur moi sa lumière"* vont dans le sac et vous commencez à les résoudre. La première carte du dessus de la pioche est un exemplaire de *Stitch – Surfeur insouciant* , dont la capacité vous permet de piocher 2 cartes si vous avez au moins 2 autres personnages en jeu au lorsque vous le jouez. Ce « si » dans « si vous avez au moins 2 autres personnages en jeu », est une condition secondaire.
 
@@ -86,7 +86,7 @@ Mais passons aux choses sérieuses ! Vous vérifiez toutes les conditions second
 <a name="1.2."></a>
 ### 2) "Gratuitement est désormais un coût alternatif
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/008-177" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-233" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-225" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-177" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-233" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-225" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, il était possible de choisir de payer des coûts alternatifs lorsqu'on jouait une carte « gratuitement », comme avec *La Nouvelle-Orléans*. Les joueurs s'étaient habitués à pouvoir jouer en Alter un personnage, voire chanter une chanson, qu'ils jouent gratuitement. Ce n'est plus le cas. « Gratuitement » est désormais un coût alternatif obligatoire : vous ne pouvez donc plus chanter une chanson jouée par *Powerline – La plus grande rockstar de la planète*, ni jouer en Alter un personnage joué par *L'histoire de la vie*.
 
@@ -94,7 +94,7 @@ Cela modifie également le type de coûts que « gratuitement » permet d'évite
 
 **Voici un exemple** :
 
-<center><img src="https://wiki.mushureport.com/images/d/d0/RetroEvolutionDevice-11-100FR.png" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-111" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://wiki.mushureport.com/images/d/d0/RetroEvolutionDevice-11-100FR.png" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-111" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, il était possible d'utiliser le *Rétro-Fusil à Evolution* pour bannir un de vos personnages avec un coût de 1 pour jouer *Mickey Mouse – Brave petit prince* en Alter sur une autre version de *Mickey Mouse* déjà en jeu. Cela permettait de profiter immédiatement des avantages de *Couronné de gloire* sans payer son coût d'Alter.
 
@@ -108,10 +108,10 @@ Maintenat, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque v
 <a name="1.3."></a>
 ### 3) "Reçoit des dommages" et "a subi des dommages"
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="250" style="border-radius: 10px;" /></p>
 
 >NdT : Le paragraphe suivant fait référence à des formulations précises en anglais écrites sur les cartes en anglais, les traductions des cartes concernées en français ne suivent pas forcément la même formulation, et l'entrée citée n'existait pas dans le glossaire en français, il est donc plus efficace de donner la liste des 8 cartes concernées par l'évolution de règle que les formulations exactes qu'elles utilisent en français, ci dessous :
-><center><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-176" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-125" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-196" width="125" style="border-radius: 5px;" /></center>
+><p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-176" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-125" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-196" width="125" style="border-radius: 5px;" /></p>
 
 Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « subit/a subi des dommages », ce qui limitait son application à certaines facçon d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « reçoit des dommage ».
 
@@ -121,7 +121,7 @@ Alors… que signifie « recvoir des dommages » ? C’est nouveau aussi ! « Re
 
 **Voici un exemple** :
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/006-096" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-218" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-096" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-218" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, si vous activiez *Le Diamant Œil-du-Diable* après avoir utilisé *Piqûre de moustique* pour mettre un marqueur de dommages à l'un de vos personnages, vous ne gagniez pas de lore. En effet, *Piqûre de moustique* n'inflige pas de dommages, *Le Diamant Œil-du-Diable* ne pouvait donc pas voir que votre personnage avait « subi des dommages » .
 
@@ -133,7 +133,7 @@ Maintenant que « a été endommagé » est équivalent à « a reçu des dommag
 <a name="1.4."></a>
 ### 4) Vous perdez maintenant sans carte dans la pioche à la fin de votre tour
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhenByMms1ZGxycjZmeGxscXd5aGZlY2c5cWE5OXR1enI4anhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Km2YiI2mzRKgw/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhenByMms1ZGxycjZmeGxscXd5aGZlY2c5cWE5OXR1enI4anhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Km2YiI2mzRKgw/giphy.gif" /></p>
 
 Vous ne perdrez plus la partie lors du prochain Contrôle de l'Etat du Jeu si vous tentez de piocher dans une pioche vide. Avec le nouveau CRD, vous avez désormais une chance supplémentaire de re-remplir votre pioche avant la fin du tour. Si votre tour se termine avec une pioche vide, c'est à ce moment que vous perdez.
 
@@ -141,7 +141,7 @@ Remarque : cela ne signifie pas lorsque vous déclarez votre fin de tour. Vous d
 
 **Voici un exemple** :
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/001-195" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/e6e0207ec80e7babd50c6ef488e7b644081ce170" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/001-195" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/e6e0207ec80e7babd50c6ef488e7b644081ce170" width="250" style="border-radius: 10px;" /></p>
 
 Vous et votre adversaire avez presque vidé vos pioches, et vous jouez *Ce rêve bleu*, obligeant chaque joueur à piocher ses quatre dernières cartes. Selon les anciennes règles, les deux joueurs perdent la partie lors du prochain contrôle de l'état du jeu, et comme vous êtes le joueur actif, vous perdriez en premier et perdriez officiellement la partie.
 
@@ -155,7 +155,7 @@ Le CRD 2.0 modifie plusieurs capacités qui fonctionnaient auparavant par le bia
 
 Cela n'aura probablement pas d'incidence majeure sur le déroulement normal des parties, mais cela permettra d'éviter des interactions trop complexes avec d'autres effets de remplacement et de maintenir un espace de conception ouvert et sain pour l'avenir.
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/011/8a090fcaf5d560d4d616325fc6594765eddf6580" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/8a090fcaf5d560d4d616325fc6594765eddf6580" width="250" style="border-radius: 10px;" /></p>
 
 ```
 6.4.5. - Effects that “skip” a step or phase of the game are static effects. [...]
@@ -166,7 +166,7 @@ Cela n'aura probablement pas d'incidence majeure sur le déroulement normal des 
 <a name="1.6."></a>
 ### 6) [A] pour [B] ne représente (en général) plus un Coût
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/002-130" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-223" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-130" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-223" width="250" style="border-radius: 10px;" /></p>
 
 Accrochez-vous bien, car ça va être bizarre. Auparavant, les effets comme *Votre roi vous invite à la fête*, qui utilisent le format « [A] pour [B] », étaient considérés comme ayant un coût : il fallait « payer » en infligeant deux dommage à l’un de vos personnages pour que l’effet suivant, infliger deux dommages à un autre personnage, se résolve. Désormais, on les appelle des « effets séquentiels », ce qui implique quelques modifications.
 
@@ -178,7 +178,7 @@ Vous aurez peut-être remarqué que j'ai utilisé le mot « en général » dans
 
 **Voici un exemple** :
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/007-063" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-051" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/007-063" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-051" width="250" style="border-radius: 10px;" /></p>
 
 Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure avec *Maléfique – Fêtarde véxée*, vous allez rencontrer quelques problèmes. Auparavant, choisir et défausser une carte pour *Un fâcheux oubli* n'était pas affecté par *Qu'est-ce que je m'amuse*, car cela était considéré comme un Coût, et non comme un effet. Désormais, il s'agit simplement d'un effet séquentiel, ce qui signifie que *Kronk* vous empêche de défausser une carte. Vous ne pourrez donc jamais résoudre avec succès la capacité de *Maléfique* pour utiliser le second effet de renvoyer une carte choisie dans la main de son propriétaire tant que *Kronk* est en jeu. Dommage.
 
@@ -190,7 +190,7 @@ Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure a
 <a name="1.7."></a>
 ### 7) Le terme "encrer" est clarifié (et légèrement modifié)
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/011/fc435f836964c2da90d4363d6d11205917099043" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/006-163" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-142" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/fc435f836964c2da90d4363d6d11205917099043" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/006-163" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-142" width="250" style="border-radius: 10px;" /></p>
 
 L'action consistant à « mettre une carte dans la réserve d'encre » est simplifiée et devient « encrer une carte », afin de mieux refléter le comportement des joueurs et d'améliorer la lisibilité du texte des cartes. Cela concerne également les cartes comme *Voguer sur la mer Azurite*, qui accordent une action supplémentaire pour (maintenant) encrer.
 
@@ -206,7 +206,7 @@ Cela a également légèrement modifié comment sont comptées les actions encre
 <a name="2."></a>
 ## Deuxième partie – Ajouts aux règles
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnRtaXZ0NDdyemJwZDRsM3Fxenl5c3Q1aWJhbzJ2aWtieHN1enphdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YLHwkqayc1j7a/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnRtaXZ0NDdyemJwZDRsM3Fxenl5c3Q1aWJhbzJ2aWtieHN1enphdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YLHwkqayc1j7a/giphy.gif" /></p>
 
 Cette section aborde les nouveautés du CRD 2.0 qui expliquent le fonctionnement de certaines cartes de Givresort ou répondent à des questions restées sans réponse jusqu'ici.
 
@@ -214,7 +214,7 @@ Cette section aborde les nouveautés du CRD 2.0 qui expliquent le fonctionnement
 <a name="2.1."></a>
 ### 1) Les dommages doivent être déplacés vers une "autre" carte
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/003-060" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-064" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/004-065" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/003-060" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-064" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/004-065" width="250" style="border-radius: 10px;" /></p>
 
 Les règles précisent désormais clairement que les effets qui déplacent les dommages doivent les déplacer vers un "autre" personnage (ou lieu). Auparavant, cela était sous-entendu dans le texte des cartes, mais jamais explicitement mentionné dans les documents ni décidé de manière unilatérale (à ma connaissance). C'est formidable que ce point soit clarifié avant qu'il ne cause d'éventuels problèmes.
 
@@ -225,13 +225,13 @@ Les règles précisent désormais clairement que les effets qui déplacent les d
 <a name="2.2."></a>
 ### 2) L'expression "ne peut pas être réduite en dessous de" est expliquée
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzOHQyYnMyaDBydm96dHc5azdibzVhYXVlaG5vZ3g2a3UzNGl6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6dtAunLVMeaFW/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzOHQyYnMyaDBydm96dHc5azdibzVhYXVlaG5vZ3g2a3UzNGl6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6dtAunLVMeaFW/giphy.gif" /></p>
 
 Les règles comprennent désormais une section expliquant comment calculer les modificateurs de caractéristique lorsque cette caractéristique « ne peut pas être réduite en dessous » d'une valeur spécifique. Concrètement, on additionne d'abord tous les modificateurs positifs et négatifs, puis on compare le résultat à la valeur limite ; si le résultat est inférieur à cette valeur, alors la caractéristique prend cette valeur. La restriction n'affecte pas le calcul tant qu'il n'est pas fini.
 
 **Voici un exemple** :
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/011/502efcc20b5e07ec007158eb8c10fcdb5dd4d46e" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-174" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-043" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/502efcc20b5e07ec007158eb8c10fcdb5dd4d46e" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-174" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-043" width="250" style="border-radius: 10px;" /></p>
 
 
 Vous avez *Elisa Maza* en jeu, ce qui empêche la Force de vos personnages de descendre en dessous de leur valeur imprimée. Votre adversaire choisit le *Capitaine Crochet* pour l'effet de *Je travaillerai sans trêve*. La Force de *Crochet* est actuellement affectée par un modificateur de -4, mais reste à 1 car c'est sa valeur imprimée.
@@ -245,7 +245,7 @@ Vous avez *Elisa Maza* en jeu, ce qui empêche la Force de vos personnages de de
 <a name="2.3."></a>
 ### 3) Un processus complet pour la résolution des effets
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/008-149" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-079" width="250" style="border-radius: 10px;" /> <img src="https://wiki.mushureport.com/images/f/fe/JohnSmith-UndauntedProtector-11-193FR.png" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-149" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-079" width="250" style="border-radius: 10px;" /> <img src="https://wiki.mushureport.com/images/f/fe/JohnSmith-UndauntedProtector-11-193FR.png" width="250" style="border-radius: 10px;" /></p>
 
 Les règles détaillent désormais précisément comment résoudre les effets de cartes, qu'il s'agisse d'actions ou de capacités. Elles définissent l'ordre de détermination des effets de certaines capacités, le moment de calculer les dommages infligés, et même les choix à effectuer lors de la résolution d'un effet. Cela clarifie de nombreuses questions que nous nous posions, notamment concernant la nouvelle carte *John Smith – Protecteur Impavide*, dont la capacité exige qu'il soit choisi pour les actions et les capacités chaque fois que son adversaire le peut.
 
@@ -257,7 +257,7 @@ This is a huge section, so I'm not going to reproduce the whole thing in here. L
 <a name="2.4."></a>
 ### 4) Un "événement" est enfin défini
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/002-172" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-172" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /></p>
 
 Nous nous sommes longtemps interrogés sur la définition exacte d'un « événement » dans le cadre d'un effet de remplacement, l'interprétant généralement comme une chose ponctuelle et mineure, tel que la picohe d'une seule carte. Désormais, nous savons qu'un événement correspond à la résolution d'un effet dans son ensemble, incluant parfois plusieurs effets. Cela pourrait influencer la manière dont les effets de remplacement modifieront les événements du jeu à l'avenir, à mesure que de nouveaux effets seront introduits.
 
@@ -270,7 +270,7 @@ Il manque cependant encore quelque chose : qu’en est-il des événements qui n
 <a name="2.5."></a>
 ### 5) Étape de Déclaration du Défi
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2k2bDJ2YnI3Y2l4M2V0bGd3OGFrYjA4dm9neXdsbHR0cTRic3ZjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XslSxbczLYgzm/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2k2bDJ2YnI3Y2l4M2V0bGd3OGFrYjA4dm9neXdsbHR0cTRic3ZjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XslSxbczLYgzm/giphy.gif" /></p>
 
 Une critique fréquente des éditions précédentes du CRD était que les étapes d'un défi étaient confuses, en particulier dans la version la plus récente précédent le CRD 2.0. Nous disposons désormais d'un processus beaucoup plus clair, détaillé pour les deux principales étapes d'un défi : la (nouvelle) étape de Déclaration du Défi et l'étape d'Attribution des Dommages du Défi.
 
@@ -286,7 +286,7 @@ L'étape de Déclaration regroupe les étapes nécessaires pour commencer le dé
 <a name="2.6."></a>
 ### 6) Durées et conditions statiques
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/003-208" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/003-208" width="250" style="border-radius: 10px;" /></p>
 
 Nous utilisons depuis longtemps des termes comme « durant », « tant que », « à moins que », etc., mais les règles n'ont jamais cherché à définir leur usage au-delà de leur acception courante en français. Le CRD 2.0 remédie à cela en listant ces termes et leurs spécifications techniques afin de clarifier la situation pour l'avenir.
 
@@ -303,7 +303,7 @@ Nous avons également reçu une liste mise à jour des conditions de déclenchem
 <a name="3."></a>
 ## Troisième partie – Formalisation de règles
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRzeTJ4aTZnM203Y3BhOHF3NnU0MjI4NmR5ajB2YWh3OHQ2d3UyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AUinHb6bQ5f4k/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRzeTJ4aTZnM203Y3BhOHF3NnU0MjI4NmR5ajB2YWh3OHQ2d3UyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AUinHb6bQ5f4k/giphy.gif" /></p>
 
 Nous allons aborder ici les points de règle précédemment uniquement donnés par voies détournées, souvent via Discord, qui s'ajoutent des les documents de règle. C'est un grand pas en avant vers une application plus uniforme des règles dans les boutiques et lors des événements : les Lore Guides n'auront plus à se fier aveuglément aux messages de Kyle dans le canal #rules-discussion !
 
@@ -311,7 +311,7 @@ Nous allons aborder ici les points de règle précédemment uniquement donnés p
 <a name="3.1."></a>
 ### 1) Piocher des cartes se produit une à la fois
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/005-170" width="250" style="transform: rotate(90deg);border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/005-170" width="250" style="transform: rotate(90deg);border-radius: 10px;" /></p>
 
 On sait depuis longtemps que piocher plusieurs cartes en une seule fois se fait en réalité une par une, notamment grâce à des cartes comme *Chamière de Merlin* qui nous oblige à révéler toutes les cartes piochées avec *Ce rêve bleu*. Et maintenant, c'est officiel.
 
@@ -322,7 +322,7 @@ On sait depuis longtemps que piocher plusieurs cartes en une seule fois se fait 
 <a name="3.2."></a>
 ### 2) Cartes réduisant ce que vous payez pour les jouer
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/006-217" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/3333e96ad9ebb6af7e4aacfe0a78aa941bfc132e" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-217" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/3333e96ad9ebb6af7e4aacfe0a78aa941bfc132e" width="250" style="border-radius: 10px;" /></p>
 
 Des cartes comme *Gadget – Bosco brillante* nous ont appris, lors du set 6, que les cartes ne peuvent affecter leur propre coût que si elles le précisent. *Gadget* est un personnage *Inventeur* dont la capacité statique réduit ce qu'il faut payer pour jouer des personnages *Inventeur*, mais elle ne peut pas réduire son propre coût. Seuls les effets comme les capacités *Outsider* de Givresort, qui indiquent explicitement « Jouer *ce personnage* vous coûte 1 encre de moi », le peuvent. Et les règles le confirment désormais.
 
@@ -333,7 +333,7 @@ Des cartes comme *Gadget – Bosco brillante* nous ont appris, lors du set 6, qu
 <a name="3.3."></a>
 ### 3) Nous savons quand un personnage "a été envoyé à l'aventure"
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/004-045" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-058" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/004-045" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-058" width="250" width="250" style="border-radius: 10px;" /></p>
 
 *Isabela Madrigal – Enfant chérie* nous a amenés à nous poser la question « quand est-ce qu'un personnage a officiellement été envoyé à l'aventure » en raison de l'interactions avec la capacité d'un de ses frères, qui copier la valeur de lore dans Ciel scintillant. Nous pouvons désormais affirmer que ça a lieu après avoir gagné le lore, mais avant la résolution des capacités déclenchées.
 
@@ -344,7 +344,7 @@ Des cartes comme *Gadget – Bosco brillante* nous ont appris, lors du set 6, qu
 <a name="3.4."></a>
 ### 4) Quand est-ce qu'une capacité optionnelle "une fois" est "consommée"
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/006-024" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/99ee8a574fabaa5da250a90e5a9a47fe2336e572" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/0927d04a6fd2ff2493cb05fd1dee36ebd37a7e66" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-024" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/99ee8a574fabaa5da250a90e5a9a47fe2336e572" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/0927d04a6fd2ff2493cb05fd1dee36ebd37a7e66" width="250" width="250" style="border-radius: 10px;" /></p>
 
 L'extension Mer d'Azurite a introduit plusieurs cartes, dont la célèbre carte *M. Litwak – Propriétaire de salle d'arcade*, qui possède une capacité optionnelle déclenchée une fois durant votre tour. Immédiatement, nous avons tous cherché à savoir si ces capacités étaient « consommées » même si l'on choisissait de ne pas résoudre leur effet. En consultant différentes règles, nous pouvons désormais déduire l'explication officielle : une capacité « une fois » n'est « consommée » que lorsqu'elle a été entièrement résolue, et non si une partie de la résolution est refusée.
 
@@ -358,7 +358,7 @@ Bien sûr, Givresort nous apporte aussi une capacité qui peut s'utiliser « deu
 <a name="3.5."></a>
 ### 5) Résolvez les effets dans l'ordre où ils sont écrits
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTJ3aW9ycTF3aGFtdjg0anQ0anh2ZnduOGVnaHl5OHduNDd4ZHUyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cGRDLbP2m43ny/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTJ3aW9ycTF3aGFtdjg0anQ0anh2ZnduOGVnaHl5OHduNDd4ZHUyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cGRDLbP2m43ny/giphy.gif" /></p>
 
 Cela paraît tellement évident qu'il ne devrait même pas être nécessaire de le préciser. Et pourtant, c'est absolument essentiel. Les effets des cartes se résolvent dans l'ordre où ils sont écrits, de gauche à droite et de haut en bas (en anglais, du moins). Nous le savons depuis longtemps, et mon long combat pour que cela soit inscrit dans les règles a enfin porté ses fruits.
 
@@ -369,7 +369,7 @@ Cela paraît tellement évident qu'il ne devrait même pas être nécessaire de 
 <a name="3.6."></a>
 ### 6) [A] ou [B] doit être possible à résoudre
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/004-079" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/002-046" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/562c526d544657cfcf3df8cc0b28579021b89658" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/004-079" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/002-046" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/562c526d544657cfcf3df8cc0b28579021b89658" width="250" width="250" style="border-radius: 10px;" /></p>
 
 Je crois que *Megara – Cynique Captivante* est le premier exemple concret de l'application de cette règle, même si elle aurait probablement pu s'appliquer également aux précédentes *Madame Mim* de l'extension L'Ascension des Floodborn. Si une capacité vous oblige à choisir un effet ou un autre, vous devez choisir un effet que vous pouvez résoudre ; vous ne pouvez pas choisir de défausser une carte, par exemple, si vous n'avez aucune carte en main lors de la résolution de la capacité de *Megara*. Vous devez alors la bannir.
 
@@ -382,7 +382,7 @@ Notez que cela ne s'applique qu'à cette construction de phrase précise. En rev
 <a name="3.7."></a>
 ### 7) Quand compter "pour chacun" et "jusqu’à"
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/003-067" width="250" style="transform: rotate(90deg);border-radius:10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/003-067" width="250" style="transform: rotate(90deg);border-radius:10px;" /></p>
 
 Le *Château de la Reine – Salle du Miroirs* est la première fois, à ma connaissance, que l'expression « pour chacun » a soulevé une question de règles, bien que le terme lui-même soit présent dans le jeu depuis le premier chapitre. Il nous fallait savoir quand ce nombre était comptabilisé et s'il était résolu individuellement ou collectivement, *Mettre le feu aux poudre* a particulièrement mis en évidence la nécessité de clarifier ce dernier point. Désormais, nous savons officiellement que ces valeurs sont calculés au tout début de la résolution d'une capacité et sont résolus comme une seule instance de l'effet.
 
@@ -394,7 +394,7 @@ Le *Château de la Reine – Salle du Miroirs* est la première fois, à ma conn
 <a name="3.8."></a>
 ### 8) Définir "dernière information connue"
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/010/e7bacab2600d81cdb72978cd9a50feb18cc769be" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/2cbb31212343bf83ceca0c7d77cbdf16d4346e1c" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/256b6f1dd541ecfadf1c66b9dd83e68ae1b92fd4" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/010/e7bacab2600d81cdb72978cd9a50feb18cc769be" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/2cbb31212343bf83ceca0c7d77cbdf16d4346e1c" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/256b6f1dd541ecfadf1c66b9dd83e68ae1b92fd4" width="250" width="250" style="border-radius: 10px;" /></p>
 
 Les extensions Lueurs dans les profondeurs et Givresort ont introduit des cartes dont les capacités nécessitent de connaître certaines informations qu'elles avaient avant de quitter la zone de jeu, généralement après leur bannissement. *Merlin – Terminant ses recherches* et *Il est temps de partir !* requièrent de savoir si un personnage avait une carte sous lui lorsqu'il était en jeu, tandis que *Ralph la Casse – Démolisseur déchainé* requiert de connaitre la force qu'il avait en jeu. Jusqu'à présent, ces effets fonctionnaient uniquement grâce à leur texte, mais nous disposons désormais d'une base de règles pour la dernière information connue (LKI pour Last Known Information).
 
@@ -406,7 +406,7 @@ Les extensions Lueurs dans les profondeurs et Givresort ont introduit des cartes
 ### 9) Perte des informations de la carte en quittant la zone de jeu
 
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/001-170" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/002-033" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/001-170" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/002-033" width="250" width="250" style="border-radius: 10px;" /></p>
 
 Les cartes ont toujours pu gagner (et parfois perdre) des capacités et des effets en jeu. De nombreux effets peuvent, par exemple, donner le Soutien à un personnage. On sait également que les cartes ne sont pas affectées par leurs propres capacités, sauf si elles se trouvent dans la zone de jeu (en règle générale). Mais… les cartes conservent-elles les capacités appliquées, comme les mots-clés, lorsqu'elles quittent le jeu ? Nous n'avions de règles que pour la perte d'informations des cartes lorsqu'elles vont dans une zone privée, mais cela ne concerne pas la défausse. La *Pierre de Dragon* peut -elle récupérer de la pile de défausse une carte à laquelle j'avais précédemment attribué le Soutien ? Eh bien, non. Et nous avons maintenant une bonne explication dans les règles de pourquoi non.
 
@@ -417,7 +417,7 @@ Les cartes ont toujours pu gagner (et parfois perdre) des capacités et des effe
 <a name="3.10."></a>
 ### 10) Se déplacer vers le même lieu
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z3a3hhMTU4bzRhOTE1YXU1emc2Zmdzb3E2ZWlvZmNqdDU1ZTZoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lDR0wnXboVr8c/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z3a3hhMTU4bzRhOTE1YXU1emc2Zmdzb3E2ZWlvZmNqdDU1ZTZoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lDR0wnXboVr8c/giphy.gif" /></p>
 
 Les Terres d'Encore nous a présenté des personnages comme *Peter Pan - Chef des enfants perdus*, et *HeiHei - Explorateur accidentel*, dotés de capacités qui s'activent lorsqu'ils se déplacent vers un lieu. Les règles stipulent depuis longtemps qu'on ne peut quitter un lieu sans avoir un lieu vers lequel aller, mais elles n'ont jamais précisé si l'on peut déplacer un personnage vers un lieu où il se trouve déjà – probablement parce que ce concept est difficilement compréhensible.
 
@@ -432,7 +432,7 @@ C'est désormais officiel. Les personnages ne peuvent plus quitter un lieu à mo
 <a name="4."></a>
 ## Quatrième partie – Petites curiosités
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzltdm5oendqZ2RiaWQ1bW95Zjl6czN2NDRxeGlzZ3Zxa3VpZ3BjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/133DHwxKoFPXpe/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzltdm5oendqZ2RiaWQ1bW95Zjl6czN2NDRxeGlzZ3Zxa3VpZ3BjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/133DHwxKoFPXpe/giphy.gif" /></p>
 
 Si vous êtes arrivé jusqu'ici, bravo ! Vous êtes tellement bien préparé pour Givresort et les extensions suivantes que ça impressionnera n'importe qui. Enfin, peut-être. Bienvenue dans la section dédiée aux mordus de règles, et globalement personne d'autre. Amusez-vous bien !
 
@@ -440,7 +440,7 @@ Si vous êtes arrivé jusqu'ici, bravo ! Vous êtes tellement bien préparé pou
 <a name="4.1."></a>
 ### 1) Les effets déclenchés au début du tour n'attendent plus en suspens
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/006-169" width="250" style="transform: rotate(90deg);border-radius:10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-169" width="250" style="transform: rotate(90deg);border-radius:10px;" /></p>
 
 L'une des bizarreries les plus étranges des anciennes versions du CRD était que les capacités déclenchées en début de tour s'activaient pendant l'étape de Redressement de la phase de début, puis restaient en suspens. Elles n'étaient mises dans le sac, à leur place habituelle, qu'à l'étape Vérifier – moment où elles se résolvaient immédiatement.
 
@@ -453,7 +453,7 @@ Heureusement, les capacités de début de tour sont désormais directement plac�
 <a name="4.2."></a>
 ### 2) Les actions entrent dans la zone de jeu
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZha2xycjducTExMDBhbHp2ajJkMDljY3BvcW5jNndxNGc1ejd5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iLZaR9LSIu4Yo/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZha2xycjducTExMDBhbHp2ajJkMDljY3BvcW5jNndxNGc1ejd5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iLZaR9LSIu4Yo/giphy.gif" /></p>
 
 En parlant d'attendre dans les limbes… La question de la zone où se trouvent les actions après avoir été jouées et pendant leur résolution a longtemps trouvé sa réponse : « quelque part ». Les règles n'ont jamais précisé où la carte allait, elles indiquaient simplement qu'elle quittait la main et attendait avant d'entrer dans la défausse. Désormais, elles peuvent enfin se détendre avec leurs amies dans la zone de jeu. Cela n'a aucune incidence sur le déroulement du jeu (pour l'instant) ; cela simplifie simplement les choses. Et je n'entendrai plus jamais parler de cette fameuse zone Yzma !
 
@@ -466,7 +466,7 @@ En parlant d'attendre dans les limbes… La question de la zone où se trouvent 
 <a name="4.3."></a>
 ### 3) Chanter des chansons fonctionne effectivement maintenant
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3liMmVtdHlwbXVyaWV2NmYzMWxvaW5hNzdqeTVueGVxYTFidzljZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXTqLBYNf0N7W/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3liMmVtdHlwbXVyaWV2NmYzMWxvaW5hNzdqeTVueGVxYTFidzljZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXTqLBYNf0N7W/giphy.gif" /></p>
 
 Oui, je sais, ça a toujours « fonctionné »… Mais en réalité, non. Vous savez, quand les chansons disent (Un personnage coûtant 3 ou plus peut {E} chanter cette chanson gratuitement.) ou quelque chose du genre ? Eh bien, ce ne sont que des textes de rappel, et on sait tous que ce ne sont pas des règles. Les instructions pour chanter une chanson dans les règles utilisent « N » pour le coût du chanteur, mais ne précisent jamais que cela fait référence au coût de la chanson jouée. Chanter n'a jamais été officiellement fonctionnel !
 
@@ -479,7 +479,7 @@ Oui, je sais, ça a toujours « fonctionné »… Mais en réalité, non. Vous s
 <a name="4.4."></a>
 ### 4) Quelles sont les capacités "après le défi" ?
 
-<center><img src="https://cdn.dreamborn.ink/images/fr/cards/005-083" width="250" width="250" style="border-radius: 10px;" /></center>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/005-083" width="250" width="250" style="border-radius: 10px;" /></p>
 
 Le CRD 2.0 ajoute une petite phrase intéressante après avoir défini les étapes d'un défi : « Toutes les capacités qui surviennent « après le défi » se produisent maintenant et se résolvent. »
 
@@ -492,7 +492,7 @@ De quoi s'agit-il ? Nous n'avons jamais vu de capacité se déclenchant « aprè
 <a name="4.5."></a>
 ### 5) Un peu de ménage
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F0YjA3OXVsbGxoNnNqejlrcjY4YXU5YjRqdDE2ZDBwYzlja2RibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OZCQMuxzdaXIc/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F0YjA3OXVsbGxoNnNqejlrcjY4YXU5YjRqdDE2ZDBwYzlja2RibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OZCQMuxzdaXIc/giphy.gif" /></p>
 
 Autre point fort de CRD 2.0 : la réorganisation des informations essentielles relatives aux questions les plus fréquentes. Les règles pour payer le coût d'épuisement des personnages en train de sécher ont été ajoutées à la section « Utiliser une capacité activée », celles concernant les valeurs négatives de connaissances à la section « Quête », et celles concernant le placement et le déplacement des marqueurs de dommage à la section « Résistance ». C'est génial !
 
@@ -506,4 +506,4 @@ Autre point fort de CRD 2.0 : la réorganisation des informations essentielles r
 
 Et voilà… c’est terminé ! Merci d’avoir lu cet article, et j’espère qu’il vous a permis de mieux comprendre le nouveau CRD. Profitez bien de Givresort !
 
-<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9wanVrZnV0OGd2djRxOHM3aWw3NWlnZDF2cG90ajc3aDhndGs0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TUJyGPCtQ7ZUk/giphy.gif" /></center>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9wanVrZnV0OGd2djRxOHM3aWw3NWlnZDF2cG90ajc3aDhndGs0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TUJyGPCtQ7ZUk/giphy.gif" /></p>
