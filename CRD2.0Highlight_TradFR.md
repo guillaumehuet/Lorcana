@@ -34,7 +34,7 @@
     - [1) Les effets déclenchés au début du tour n'attendent plus en suspens](#4.1.)
     - [2) Les actions entrent dans la zone de jeu](#4.2.)
     - [3) Chanter des chansons fonctionne effectivement maintenant](#4.3.)
-    - [4) Quelles sont les capacités "après le défi" ?](#4.4.)
+    - [4) Qu'est-ce que les capacités "après le défi" ?](#4.4.)
     - [5) Un peu de ménage](#4.5.)
 
 (Et si vous avez encore envie d'en savoir plus sur les règles après tout ça, consultez aussi [l'article du juge Phil](https://judgingwithphil.com/2026/02/06/comprehensive-rules-document-2-0/) sur le nouveau CRD !)
@@ -43,13 +43,13 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRicGxmanRkeHI2Y3U5ZXJnMGs4NjRmam5yZnNlMG9sazBwMTN1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9VkusmHdKHuAE/giphy.gif" /></p>
 
-Nous avons enfin reçu la version restructurée de façon approfondie du Document de Règles Complètes de Lorcana, appellé dans cet article CRD 2.0 pour "Comprehensive Rules Document version 2.0", et nous allons aborder tous les points essentiels que vous devez connaître en tant que joueur et/ou Lore Guide afin  d'aborder sereinement la meta de Givresort.
+Nous avons enfin reçu la version restructurée de façon approfondie du Document de Règles Complètes de Lorcana, appelé dans cet article CRD 2.0 pour "Comprehensive Rules Document version 2.0", et nous allons aborder tous les points essentiels que vous devez connaître en tant que joueur et/ou Lore Guide afin d'aborder sereinement la meta de Givresort.
 
 Chaque section abordera quelques-uns des changements ou ajouts les plus importants du CRD 2.0, en commençant par les points essentiels que tout joueur se doit de connaître, et en terminant par quelques détails qui ne présenteront d'intérêt que pour les plus férus de règles d'entre nous. Je les trouve très intéressants, en tout cas !
 
 J'ai également inclus les nouvelles références réglementaires pour ces mises à jour, détaillées ci-dessous après la description de chaque modification. Par souci de concision, certains extraits ont été exclus ; les caractères […] indiquent les passages coupés.
 
-> NdT : J'ai décidé de ne pas traduire les références réglementaires afin de garder celles-ci précisemment écrite tel que sur le document de référence en anglais, si le document des CRD sort officiellement traduit en français, je modifierai celles-ci pour citer la version français, en précisant si leur sens s'éloigne du texte de règle en anglais.
+> NdT : J'ai décidé de ne pas traduire les références réglementaires afin de garder celles-ci précisément écrite tel que sur le document de référence en anglais, si le document des CRD sort officiellement traduit en français, je modifierai celles-ci pour citer la version française, en précisant si leur sens s'éloigne du texte de règle en anglais.
 
 Allons-y !
 
@@ -101,7 +101,7 @@ Cela modifie également le type de coûts que « gratuitement » permet de ne pa
 
 Auparavant, il était possible d'utiliser le *Rétro-Fusil à évolution* et bannir un de vos personnages avec un coût de 1 pour jouer *Mickey Mouse – Brave petit prince* en Alter sur une autre version de *Mickey Mouse* déjà en jeu. Cela permettait de profiter immédiatement des avantages de *Couronné de gloire* sans payer son coût d'Alter.
 
-Maintenat, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque vous jouez le nouveau *Mickey Mouse* ; il ne peut donc entrer en jeu qu'en tant que nouveau personnage, sans les avantages de *Couronné de gloire*.
+Maintenant, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque vous jouez le nouveau *Mickey Mouse* ; il ne peut donc entrer en jeu qu'en tant que nouveau personnage, sans les avantages de *Couronné de gloire*.
 </details>
 
 ```
@@ -114,14 +114,14 @@ Maintenat, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque v
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="250" style="border-radius: 10px;" /></p>
 
->NdT : Le paragraphe suivant fait référence à des formulations précises écrites sur les cartes en anglais, les traductions des cartes concernées en français ne suivent pas forcément la même formulation, et l'entrée citée n'existait pas dans le glossaire en français, il est donc plus efficace de donner la liste des 8 cartes concernées par l'évolution de règle que les formulations exactes qu'elles utilisent en français, ci dessous :
+>NdT : Le paragraphe suivant fait référence à des formulations précises écrites sur les cartes en anglais, les traductions des cartes concernées en français ne suivent pas forcément la même formulation, et l'entrée citée n'existait pas dans le glossaire en français, il est donc plus efficace de donner la liste des 8 cartes concernées par l'évolution de règle que les formulations exactes qu'elles utilisent en français, ci-dessous :
 ><p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-176" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-125" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-196" width="125" style="border-radius: 5px;" /></p>
 
 Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « subit/a subi des dommages », ce qui limitait son application à certaines façons d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « reçoit des dommage ».
 
 Alors… que signifie « recevoir des dommages » ? C’est nouveau aussi ! « Recevoir des dommages » signifie recevoir des jetons dommages de toutes les façons possibles : infliger des dommages, placer des dommages et les déplacer. Absolument tout ! Vous pouvez maintenant déclencher la capacité de cette bonne vieille *La Bête – Implacable* avec *Malin, Méchant, Villain* !
 
->NdT : Le verbe « recevoir »  est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre »  ou toute autre traduction valable de « to take ». La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir »  qui est la traduction du terme anglais « to be dealt », et donc ne correspond pas au comportement prévu par la capacité de Lilo.
+>NdT : Le verbe « recevoir » est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre » ou toute autre traduction valable de « to take ». La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir » qui est la traduction du terme anglais « to be dealt », et donc ne correspond pas au comportement prévu par la capacité de Lilo.
 
 <details>
     <summary>Voir un exemple :</summary>
@@ -141,7 +141,7 @@ Maintenant que « s'est vu infliger des dommages » est équivalent à « a reç
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhenByMms1ZGxycjZmeGxscXd5aGZlY2c5cWE5OXR1enI4anhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Km2YiI2mzRKgw/giphy.gif" /></p>
 
-Vous ne perdrez plus la partie lors du prochain Contrôle de l'Etat du Jeu si vous tentez de piocher dans une pioche vide. Avec le nouveau CRD, vous avez désormais une chance supplémentaire de re-remplir votre pioche avant la fin du tour. Si votre tour se termine avec une pioche vide, c'est à ce moment que vous perdez.
+Vous ne perdrez plus la partie lors du prochain Contrôle de l'Etat du Jeu si vous tentez de piocher dans une pioche vide. Avec le nouveau CRD, vous avez désormais une chance supplémentaire de reremplir votre pioche avant la fin du tour. Si votre tour se termine avec une pioche vide, c'est à ce moment que vous perdez.
 
 Remarque : cela ne signifie pas lorsque vous déclarez votre fin de tour. Vous disposez également d'une phase de fin de tour pour remettre des cartes dans votre pioche, si possible. Un Contrôle de l'Etat du Jeu a lieu après cette phase, et c'est lui qui vous fera perdre si votre pioche est vide.
 
@@ -161,7 +161,7 @@ Avec les nouvelles règles, vous pouvez toujours jouer la carte *Viens te battre
 ### 5) Les effets de remplacement sont simplifiés
 Le CRD 2.0 modifie plusieurs capacités qui fonctionnaient auparavant par le biais d'effets de remplacement ; elles fonctionnent désormais comme des capacités statiques. Cela concerne notamment Résistance, les effets « passez » et les effets d'« entrée en jeu ». La plus notable est Résistance, qui est maintenant classée comme un « effet de réduction des dommages ».
 
-Cela n'aura probablement pas d'incidence majeure sur le déroulement normal des parties, mais cela permettra d'éviter des interactions trop complexes avec d'autres effets de remplacement et de garantir despossibilités d'évolution du jeu ouvertes et saines pour l'avenir.
+Cela n'aura probablement pas d'incidence majeure sur le déroulement normal des parties, mais cela permettra d'éviter des interactions trop complexes avec d'autres effets de remplacement et de garantir des possibilités d'évolution du jeu ouvertes et saines pour l'avenir.
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/8a090fcaf5d560d4d616325fc6594765eddf6580" width="250" style="border-radius: 10px;" /></p>
 
@@ -188,7 +188,7 @@ Vous aurez peut-être remarqué que j'ai utilisé le terme « en général » da
     <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/007-063" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-051" width="250" style="border-radius: 10px;" /></p>
 
-Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure avec *Maléfique – Fêtarde véxée*, vous allez avoir des soucis. Auparavant, choisir et défausser une carte pour *Un fâcheux oubli* n'était pas affecté par *Qu'est-ce que j'm'amuse*, car cela était considéré comme un Coût, et non comme un effet. Désormais, il s'agit simplement d'un effet séquentiel, ce qui signifie que *Kronk* vous empêche de défausser une carte. Vous ne pourrez donc jamais résoudre avec succès la capacité de *Maléfique* pour utiliser le second effet de renvoyer une carte choisie dans la main de son propriétaire tant que *Kronk* est en jeu. Zut.
+Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure avec *Maléfique – Fêtarde vexée*, vous allez avoir des soucis. Auparavant, choisir et défausser une carte pour *Un fâcheux oubli* n'était pas affecté par *Qu'est-ce que j'm'amuse*, car cela était considéré comme un Coût, et non comme un effet. Désormais, il s'agit simplement d'un effet séquentiel, ce qui signifie que *Kronk* vous empêche de défausser une carte. Vous ne pourrez donc jamais résoudre avec succès la capacité de *Maléfique* pour utiliser le second effet de renvoyer une carte choisie dans la main de son propriétaire tant que *Kronk* est en jeu. Zut!
 </details>
 
 ```
@@ -269,7 +269,7 @@ This is a huge section, so I'm not going to reproduce the whole thing in here. L
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-172" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /></p>
 
-Nous nous sommes longtemps interrogés sur la définition exacte d'un « événement » dans le cadre d'un effet de remplacement, l'interprétant généralement comme quelquechose de ponctuel et mineur, tel que la pioche d'une seule carte. Désormais, nous savons qu'un événement correspond à la résolution d'un effet dans son ensemble, incluant parfois plusieurs effets. Cela pourrait influencer la manière dont les effets de remplacement modifieront les événements du jeu à l'avenir, à mesure que de nouveaux effets seront introduits.
+Nous nous sommes longtemps interrogés sur la définition exacte d'un « événement » dans le cadre d'un effet de remplacement, l'interprétant généralement comme quelque chose de ponctuel et mineur, tel que la pioche d'une seule carte. Désormais, nous savons qu'un événement correspond à la résolution d'un effet dans son ensemble, incluant parfois plusieurs effets. Cela pourrait influencer la manière dont les effets de remplacement modifieront les événements du jeu à l'avenir, à mesure que de nouveaux effets seront introduits.
 
 Il manque cependant encore quelque chose : qu’en est-il des événements qui ne sont pas des effets, comme les dommages infligés lors d’un défi ? Il y a encore des améliorations possibles !
 
@@ -315,7 +315,7 @@ Nous avons également reçu une liste mise à jour des conditions de déclenchem
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRzeTJ4aTZnM203Y3BhOHF3NnU0MjI4NmR5ajB2YWh3OHQ2d3UyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AUinHb6bQ5f4k/giphy.gif" /></p>
 
-Nous allons aborder ici les points de règle précédemment uniquement connus par voies détournées, souvent via Discord, qui s'intégrent maintenant dans les documents de règles. C'est un grand pas en avant vers une application plus uniforme des règles dans les boutiques et lors des événements : les Lore Guides n'auront plus à se guetter chaque réponse de Kyle dans le canal #rules-discussion !
+Nous allons aborder ici les points de règle précédemment uniquement connus par voies détournées, souvent via Discord, qui s'intègrent maintenant dans les documents de règles. C'est un grand pas en avant vers une application plus uniforme des règles dans les boutiques et lors des événements : les Lore Guides n'auront plus à se guetter chaque réponse de Kyle dans le canal #rules-discussion !
 
 <a name="3.1."></a>
 ### 1) Piocher des cartes se produit une à la fois
@@ -344,7 +344,7 @@ Des cartes comme *Gadget – Bosco brillante* nous ont appris, lors du set 6, qu
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/004-045" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/005-058" width="250" width="250" style="border-radius: 10px;" /></p>
 
-*Isabela Madrigal – Enfant chérie* nous a amenés à nous poser la question « quand est-ce qu'un personnage a officiellement été envoyé à l'aventure » en raison de son interactions avec la capacité d'un de ses frères, qui copie les valeurs de lore à l'époque de Ciel Scintillant. Nous pouvons désormais affirmer que ça a lieu après avoir gagné le lore, mais avant la résolution des capacités déclenchées.
+*Isabela Madrigal – Enfant chérie* nous a amenés à nous poser la question « quand est-ce qu'un personnage a officiellement été envoyé à l'aventure » en raison de son interaction avec la capacité d'un de ses frères, qui copie les valeurs de lore à l'époque de Ciel Scintillant. Nous pouvons désormais affirmer que ça a lieu après avoir gagné le lore, mais avant la résolution des capacités déclenchées.
 
 ```
 4.5.2. - Once the lore is gained by the questing player, the questing character has “quested.” Triggered abilities that were added to the bag during the process can now resolve.
@@ -355,7 +355,7 @@ Des cartes comme *Gadget – Bosco brillante* nous ont appris, lors du set 6, qu
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-024" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/99ee8a574fabaa5da250a90e5a9a47fe2336e572" width="250" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/0927d04a6fd2ff2493cb05fd1dee36ebd37a7e66" width="250" width="250" style="border-radius: 10px;" /></p>
 
-L'extension La Mer Azurite a introduit plusieurs cartes, dont la carte, célébre dans a communauté des règles, *M. Litwak – Propriétaire de salle d'arcade*, qui possède une capacité optionnelle déclenchée une fois durant votre tour. Nous avons immédiatement cherché à comprendre si ces capacités étaient « consommées » même si l'on choisissait de ne pas résoudre leur effet. En consultant différentes règles, nous pouvons désormais déduire l'explication officielle : une capacité « une fois » n'est « consommée » que lorsqu'elle a été entièrement résolue, et non si une partie de la résolution est été choisie de ne pas être résolue.
+L'extension La Mer Azurite a introduit plusieurs cartes, dont la carte, célèbre dans a communauté des règles, *M. Litwak – Propriétaire de salle d'arcade*, qui possède une capacité optionnelle déclenchée une fois durant votre tour. Nous avons immédiatement cherché à comprendre si ces capacités étaient « consommées » même si l'on choisissait de ne pas résoudre leur effet. En consultant différentes règles, nous pouvons désormais déduire l'explication officielle : une capacité « une fois » n'est « consommée » que lorsqu'elle a été entièrement résolue, et non si une partie de la résolution a été choisie de ne pas être résolue.
 
 Bien sûr, Givresort nous apporte aussi une capacité qui peut s'utiliser « deux fois durant votre tour », au lieu d'une seule. On suppose que son fonctionnement est le même, mais ce n'est pas encore explicitement indiqué dans les règles…
 
@@ -393,7 +393,7 @@ Notez que cela ne s'applique qu'à cette construction de phrase précise. En rev
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/003-067" width="250" style="transform: rotate(90deg);border-radius:10px;" /></p>
 
-Le *Château de la Reine – Salle du miroir* est la première fois, à ma connaissance, que l'expression « pour chacun » a soulevé une question de règles, bien que le terme lui-même soit présent dans le jeu depuis le premier chapitre. Nous avions besoin de savoir quand ce nombre était comptabilisé et s'il était résolu individuellement ou collectivement, *Mettre le feu aux poudre* a particulièrement mis en évidence la nécessité de clarifier ce dernier point. Désormais, nous savons officiellement que ces valeurs sont calculés au tout début de la résolution d'une capacité et sont résolus comme une seule instance de l'effet.
+Le *Château de la Reine – Salle du miroir* est la première fois, à ma connaissance, que l'expression « pour chacun » a soulevé une question de règles, bien que le terme lui-même soit présent dans le jeu depuis le premier chapitre. Nous avions besoin de savoir quand ce nombre était comptabilisé et s'il était résolu individuellement ou collectivement, *Mettre le feu aux poudre* a particulièrement mis en évidence la nécessité de clarifier ce dernier point. Désormais, nous savons officiellement que ces valeurs sont calculées au tout début de la résolution d'une capacité et sont résolus comme une seule instance de l'effet.
 
 ```
 6.1.8. - Some abilities and effects have the language “for each” to define a single number used in that ability or effect. This can be used on any type of ability or effect. If a non-static ability has “for each,” the number defined is counted once during the process of resolving the effect. If a static ability has “for each,” the number defined is continuously counted for as long as the static ability remains active.
@@ -451,7 +451,7 @@ Si vous êtes arrivé jusqu'ici, bravo ! Vous êtes tellement bien préparé pou
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-169" width="250" style="transform: rotate(90deg);border-radius:10px;" /></p>
 
-L'une des décisions les plus étranges des anciennes versions du CRD était que les capacités déclenchées au début du tour s'activaient pendant l'étape de Redressement de la phase de Début, puis restaient en suspens. Elles n'étaient mises dans le sac, l'endroit où elles setrouvent normalement, qu'à l'étape Vérifier – moment où elles se résolvaient immédiatement.
+L'une des décisions les plus étranges des anciennes versions du CRD était que les capacités déclenchées au début du tour s'activaient pendant l'étape de Redressement de la phase de Début, puis restaient en suspens. Elles n'étaient mises dans le sac, l'endroit où elles se trouvent normalement, qu'à l'étape Vérifier – moment où elles se résolvaient immédiatement.
 
 Heureusement, les capacités déclenchées au début du tour sont désormais directement placées dans le sac lorsqu'elles se déclenchent. Fini les attentes embarrassantes pendant que les joueurs gagnent le lore de leurs lieux.
 
@@ -464,7 +464,7 @@ Heureusement, les capacités déclenchées au début du tour sont désormais dir
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZha2xycjducTExMDBhbHp2ajJkMDljY3BvcW5jNndxNGc1ejd5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iLZaR9LSIu4Yo/giphy.gif" /></p>
 
-En parlant d'attentes embarassantes… La question de la zone où se trouvent les actions après avoir été jouées et pendant leur résolution a été répondue depuis longtemps : « quelque part ». Les règles n'ont jamais précisé où la carte allait, elles indiquaient simplement qu'elle quittait la main et attendait avant d'entrer dans la défausse. Désormais, elles peuvent enfin se détendre avec leurs amies dans la zone de jeu. Cela n'a aucune incidence sur le déroulement du jeu (pour l'instant) ; cela simplifie juste les choses. Et je n'entendrai plus jamais parler de cette fameuse zone Yzma !
+En parlant d'attentes embarrassantes… La question de la zone où se trouvent les actions après avoir été jouées et pendant leur résolution a été répondue depuis longtemps : « quelque part ». Les règles n'ont jamais précisé où la carte allait, elles indiquaient simplement qu'elle quittait la main et attendait avant d'entrer dans la défausse. Désormais, elles peuvent enfin se détendre avec leurs amies dans la zone de jeu. Cela n'a aucune incidence sur le déroulement du jeu (pour l'instant) ; cela simplifie juste les choses. Et je n'entendrai plus jamais parler de cette fameuse zone Yzma !
 
 >NdT : YZMA était précédemment le nom informel donné à ce « quelque part » en l'assimilant à une pseudo-zone. YZMA, en plus de faire référence au personnage de Kuzco, signifie "Your Zone Managing Actions", soit "Votre zone qui s'occupe des actions".
 
@@ -477,7 +477,7 @@ En parlant d'attentes embarassantes… La question de la zone où se trouvent le
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3liMmVtdHlwbXVyaWV2NmYzMWxvaW5hNzdqeTVueGVxYTFidzljZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXTqLBYNf0N7W/giphy.gif" /></p>
 
-Oui, je sais, ça a toujours « fonctionné »… Mais en réalité, non. Vous savez, quand les chansons disent *(Vous pouvez {E} un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.)* ou quelque chose du genre ? Eh bien, ce n'est qu'un texte de rappel, et nous savons que ça n'a pas de valeur en terme de texte réglementaire. Les instructions pour chanter une chanson dans les règles utilisaient « N » pour comme coût du chanteur, mais ne précisaient jamais que cela fesait référence au coût de la chanson jouée. Chanter n'a donc jamais été officiellement fonctionnel !
+Oui, je sais, ça a toujours « fonctionné »… Mais en réalité, non. Vous savez, quand les chansons disent *(Vous pouvez {E} un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.)* ou quelque chose du genre ? Eh bien, ce n'est qu'un texte de rappel, et nous savons que ça n'a pas de valeur en termes de texte réglementaire. Les instructions pour chanter une chanson dans les règles utilisaient « N » pour comme coût du chanteur, mais ne précisaient jamais que cela faisait référence au coût de la chanson jouée. Chanter n'a donc jamais été officiellement fonctionnel !
 
 Ça y est enfin ! Les interminables plaintes des défenseurs des règles ont permis de corriger l'un des mécanismes fondamentaux du jeu. De rien.
 
@@ -486,7 +486,7 @@ Oui, je sais, ça a toujours « fonctionné »… Mais en réalité, non. Vous s
 ```
 
 <a name="4.4."></a>
-### 4) Quelles sont les capacités "après le défi" ?
+### 4) Qu'est-ce que les capacités "après le défi" ?
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/005-083" width="250" width="250" style="border-radius: 10px;" /></p>
 
