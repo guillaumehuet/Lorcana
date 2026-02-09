@@ -43,11 +43,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRicGxmanRkeHI2Y3U5ZXJnMGs4NjRmam5yZnNlMG9sazBwMTN1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9VkusmHdKHuAE/giphy.gif" /></p>
 
-Nous avons enfin reçu la version restructurée de façon approfondie du Document de Règles Complètes de Lorcana, appelé dans cet article CRD 2.0 pour "Comprehensive Rules Document version 2.0", et nous allons aborder tous les points essentiels que vous devez connaître en tant que joueur et/ou Lore Guide afin d'aborder sereinement la meta de Givresort.
+Nous avons enfin reçu la version restructurée de façon approfondie du Document de Règles Complètes de Lorcana, appelé dans cet article CRD 2.0 pour "Comprehensive Rules Document version 2.0", et nous allons aborder tous les points *essentiels* que vous devez connaître en tant que joueur et/ou Lore Guide afin d'aborder sereinement la meta de Givresort.
 
 Chaque section abordera quelques-uns des changements ou ajouts les plus importants du CRD 2.0, en commençant par les points essentiels que tout joueur se doit de connaître, et en terminant par quelques détails qui ne présenteront d'intérêt que pour les plus férus de règles d'entre nous. Je les trouve très intéressants, en tout cas !
 
-J'ai également inclus les nouvelles références réglementaires pour ces mises à jour, détaillées ci-dessous après la description de chaque modification. Par souci de concision, certains extraits ont été exclus ; les caractères […] indiquent les passages coupés.
+J'ai également inclus les nouvelles références réglementaires pour ces mises à jour, détaillées ci-dessous après la description de chaque modification. Par souci de concision, certains extraits ont été exclus ; les caractères *[…]* indiquent les passages coupés.
 
 > NdT : J'ai décidé de ne pas traduire les références réglementaires afin de garder celles-ci précisément écrite tel que sur le document de référence en anglais, si le document des CRD sort officiellement traduit en français, je modifierai celles-ci pour citer la version française, en précisant si leur sens s'éloigne du texte de règle en anglais.
 
@@ -75,11 +75,11 @@ Depuis la version 2.0 du CRD, les conditions secondaires ne sont vérifiées *qu
     <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-014" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-024" width="250" style="border-radius: 10px;" /></p>
 
-Vous jouez un deck original en Infinity, et votre adversaire vient de vider votre zone de jeu avec *Soyez prêtes*. Heureusement, vous aviez trois exemplaires de *Mufasa – Roi trahi* en jeu. Trois exemplaires de *"Le soleil éteindra sur moi sa lumière"* vont dans le sac et vous commencez à les résoudre. La première carte du dessus de la pioche est un exemplaire de *Stitch – Surfeur insouciant* , dont la capacité vous permet de piocher 2 cartes si vous avez au moins 2 autres personnages en jeu lorsque vous le jouez. Ce « si » dans « si vous avez au moins 2 autres personnages en jeu », est une condition secondaire.
+Vous jouez un deck original en Infinity, et votre adversaire vient de vider votre zone de jeu avec *Soyez prêtes*. Heureusement, vous aviez trois exemplaires de *Mufasa – Roi trahi* en jeu. Trois exemplaires de *Le soleil éteindra sur moi sa lumière* vont dans le sac et vous commencez à les résoudre. La première carte du dessus de la pioche est un exemplaire de *Stitch – Surfeur insouciant* , dont la capacité vous permet de piocher 2 cartes si vous avez au moins 2 autres personnages en jeu lorsque vous le jouez. Ce « si » dans « si vous avez au moins 2 autres personnages en jeu », est une condition secondaire.
 
-Pour l'instant, vous n'avez aucun autre personnage en jeu, donc sa capacité ne pourrait pas être mise dans le sac selon les anciennes règles. Mais avec le CRD 2.0, c'est possible ! Vous pouvez la mettre de côté pour plus tard. Vous résolvez une autre capacité de *Mufasa* et révélez une autre copie de *Stitch*, dont la capacité n'aurait pas pu être mis dans le sac selon les anciennes règles, mais qui le peut désormais. Vous résolvez le dernier *Mufasa*, en jouant un autre *Stitch*, qui était auparavant le seul *Stitch* dont la capacité aurait pu être résolu puisque vous avez maintenant deux autres personnages en jeu – sa condition secondaire est vraie lorsqu'il se déclenche.
+Pour l'instant, vous n'avez aucun autre personnage en jeu, donc sa capacité n'aurait pas pu être mise dans le sac selon les *anciennes* règles. Mais avec le CRD 2.0, c'est possible ! Vous pouvez la mettre de côté pour plus tard. Vous résolvez une autre capacité de *Mufasa* et révélez une autre copie de *Stitch*, dont la capacité n'aurait pas pu être mis dans le sac selon les anciennes règles, mais qui le peut désormais. Vous résolvez le dernier *Mufasa*, en jouant un autre *Stitch*, qui était auparavant le seul *Stitch* dont la capacité aurait pu être résolu puisque vous avez maintenant deux autres personnages en jeu – sa condition secondaire est vraie lorsqu'il se déclenche.
 
-Mais maintenant, place au fun ! Vous vérifiez toutes les conditions secondaires à mesure que sont résolues les capacités de chaque *Stitch*. Avez-vous deux autres personnages en jeu lors de la résolution de la première capacité ? Oui ! Piochez ! Avez-vous deux autres personnages en jeu lors de la résolution de la deuxième ? Oui ! Piochez *encore* ! Avez-vous deux autres personnages en jeu lors de la résolution de la troisième ? Oui ! Piochez **encore** ! Avec le CRD 2.0, vous pouvez résoudre les trois capacités et récupérer six cartes !
+Mais maintenant, place au fun ! Vous vérifiez toutes les conditions secondaires à mesure que sont résolues les capacités de chaque *Stitch*. Avez-vous deux autres personnages en jeu lors de la résolution de la première capacité ? Oui ! Piochez ! Avez-vous deux autres personnages en jeu lors de la résolution de la deuxième ? Oui ! Piochez encore ! Avez-vous deux autres personnages en jeu lors de la résolution de la troisième ? Oui ! Piochez *encore* ! Avec le CRD 2.0, vous pouvez résoudre les trois capacités et récupérer six cartes !
 </details>
 
 ```
@@ -91,9 +91,9 @@ Mais maintenant, place au fun ! Vous vérifiez toutes les conditions secondaires
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-177" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-233" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-225" width="250" style="border-radius: 10px;" /></p>
 
-Précédemment, il était possible de choisir de payer des coûts alternatifs lorsqu'on jouait une carte « gratuitement », comme avec *La Nouvelle-Orléans*. Les joueurs avaient pris l'habitude de pouvoir jouer en Alter un personnage, voire chanter une chanson, qu'ils jouent gratuitement. Ce n'est plus le cas. « Gratuitement » est désormais un coût alternatif obligatoire : vous ne pouvez donc plus chanter une chanson jouée par *Powerline – La plus grande rockstar de la planète*, ni jouer en Alter un personnage joué par *L'histoire de la vie*.
+Précédemment, il était possible de choisir de payer des coûts alternatifs lorsqu'on jouait une carte « gratuitement », comme avec *La Nouvelle-Orléans*. Les joueurs avaient pris l'habitude de pouvoir jouer en Alter un personnage, voire chanter une chanson, qu'ils jouent gratuitement. Ce n'est plus le cas. « Gratuitement » est désormais un coût alternatif *obligatoire* : vous ne pouvez donc plus chanter une chanson jouée par *Powerline – La plus grande rockstar de la planète*, ni jouer en Alter un personnage joué par *L'histoire de la vie*.
 
-Cela modifie également le type de coûts que « gratuitement » permet de ne pas payer. Auparavant, seuls les coûts en encre étaient concernés, mais désormais, tous les coûts, à l'exception de l'épuisement, sont concernés. Il s'agit clairement d'un point à surveiller de près, car nous pourrions voir apparaître davantage d'effets permettant d'activer gratuitement les capacités des cartes en jeu !
+Cela modifie également le type de coûts que « gratuitement » permet de ne pas payer. Auparavant, seuls les coûts en encre étaient concernés, mais désormais, *tous* les coûts, à l'exception de l'épuisement, sont concernés. Il s'agit clairement d'un point à surveiller de près, car nous pourrions voir apparaître davantage d'effets permettant d'activer gratuitement les capacités des cartes en jeu !
 
 <details>
     <summary>Voir un exemple :</summary>
@@ -117,9 +117,9 @@ Maintenant, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque 
 >NdT : Le paragraphe suivant fait référence à des formulations précises écrites sur les cartes en anglais, les traductions des cartes concernées en français ne suivent pas forcément la même formulation, et l'entrée citée n'existait pas dans le glossaire en français, il est donc plus efficace de donner la liste des 8 cartes concernées par l'évolution de règle que les formulations exactes qu'elles utilisent en français, ci-dessous :
 ><p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-176" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-125" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-196" width="125" style="border-radius: 5px;" /></p>
 
-Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « subit/a subi des dommages », ce qui limitait son application à certaines façons d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « reçoit des dommage ».
+Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « subit/a *subi* des dommages », ce qui limitait son application à certaines façons d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « reçoit des dommage ».
 
-Alors… que signifie « recevoir des dommages » ? C’est nouveau aussi ! « Recevoir des dommages » signifie recevoir des jetons dommages de toutes les façons possibles : infliger des dommages, placer des dommages et les déplacer. Absolument tout ! Vous pouvez maintenant déclencher la capacité de cette bonne vieille *La Bête – Implacable* avec *Malin, Méchant, Villain* !
+Alors… que signifie « recevoir des dommages » ? C’est nouveau aussi ! « Recevoir des dommages » signifie recevoir des jetons dommages de *n'importe quelle* façon possibles : infliger des dommages, placer des dommages et les déplacer. Absolument tout ! Vous pouvez maintenant déclencher la capacité de cette bonne vieille *La Bête – Implacable* avec *Malin, Méchant, Villain* !
 
 >NdT : Le verbe « recevoir » est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre » ou toute autre traduction valable de « to take ». La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir » qui est la traduction du terme anglais « to be dealt », et donc ne correspond pas au comportement prévu par la capacité de Lilo.
 
@@ -143,7 +143,7 @@ Maintenant que « s'est vu infliger des dommages » est équivalent à « a reç
 
 Vous ne perdrez plus la partie lors du prochain Contrôle de l'Etat du Jeu si vous tentez de piocher dans une pioche vide. Avec le nouveau CRD, vous avez désormais une chance supplémentaire de reremplir votre pioche avant la fin du tour. Si votre tour se termine avec une pioche vide, c'est à ce moment que vous perdez.
 
-Remarque : cela ne signifie pas lorsque vous déclarez votre fin de tour. Vous disposez également d'une phase de fin de tour pour remettre des cartes dans votre pioche, si possible. Un Contrôle de l'Etat du Jeu a lieu après cette phase, et c'est lui qui vous fera perdre si votre pioche est vide.
+Remarque : cela ne signifie pas lorsque vous *déclarez* votre fin de tour. Vous disposez également de la Phase de Fin de tour pour remettre des cartes dans votre pioche, si possible. Un Contrôle de l'Etat du Jeu a lieu après cette phase, et c'est lui qui vous fera perdre si votre pioche est vide.
 
 <details>
     <summary>Voir un exemple :</summary>
@@ -178,7 +178,7 @@ Cela n'aura probablement pas d'incidence majeure sur le déroulement normal des 
 
 Accrochez-vous bien, car celui-ci est cocasse. Auparavant, les effets comme *Votre roi vous invite à la fête*, qui utilisent le format « [A] pour [B] », étaient considérés comme ayant un coût : il fallait « payer » en infligeant deux dommage à l’un de vos personnages pour que l’effet suivant, infliger deux dommages à un autre personnage, se résolve. Désormais, on les appelle des « effets séquentiels », ce qui implique quelques modifications.
 
-Tout d'abord, les effets de remplacement empêchent désormais l'effet [A] d'être considéré comme résolu. Cela n'était pas le cas lorsqu'il s'agissait de coûts. Si un effet de remplacement vous empêche d'infliger des dommages à votre personnage avec *Votre roi*, vous ne pouvez plus infliger de dommages à un autre personnage (et n'oubliez pas que Résistance n'est plus un effet de remplacement ; Résistance n'empêche donc pas ces effets d'être considérés comme résolus).
+Tout d'abord, les effets de remplacement empêchent désormais l'effet [A] d'être considéré comme résolu. Cela n'était pas le cas lorsqu'il s'agissait de coûts. Si un effet de remplacement vous empêche d'infliger des dommages à votre personnage avec *Votre roi*, vous ne pouvez plus infliger de dommages à un autre personnage (et n'oubliez pas que **Résistance** n'est plus un effet de remplacement ; **Résistance** n'empêche donc pas ces effets d'être considérés comme résolus).
 
 De plus, comme il ne s'agit plus de Coûts, ils peuvent être affectés par d'autres capacités qui modifient la résolution des effets. Consultez l'exemple ci-dessous pour plus de détails.
 
@@ -201,7 +201,7 @@ Si vous avez *Kronk – Décontracté* en jeu et que vous partez à l'aventure a
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/fc435f836964c2da90d4363d6d11205917099043" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/006-163" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/001-142" width="250" style="border-radius: 10px;" /></p>
 
-L'action consistant à « placer une carte dans votre réserve d'encre » est simplifiée et devient « encrer une carte », afin de mieux refléter le comportement des joueurs et d'améliorer la lisibilité du texte des cartes. Cela concerne également les cartes comme *Voguer sur la mer Azurite*, qui accordent une action du tour supplémentaire pour (maintenant) encrer.
+L'action du tour consistant à « placer une carte dans votre réserve d'encre » est simplifiée et devient « encrer une carte », afin de mieux refléter le comportement des joueurs et d'améliorer la lisibilité du texte des cartes. Cela concerne également les cartes comme *Voguer sur la mer Azurite*, qui accordent une action du tour supplémentaire pour (maintenant) encrer.
 
 Cela a également légèrement modifié comment sont comptées les actions encrer « supplémentaires » pendant un tour. Auparavant, renvoyer une *Belle – Étrange demoiselle* dans votre main et en jouer une autre vous donnait un total de trois actions encrer à utiliser pendant votre tour, mais ce n'est plus le cas. Tant que vous avez une *Belle* en jeu, vous disposez d'une action encrer supplémentaire. Si vous l'utilisez, puis renvoyez *Belle* et la rejouez, vous avez déjà utilisé cette action supplémentaire. Vous n'en obtenez pas de nouvelle.
 
@@ -430,7 +430,7 @@ Les cartes ont toujours pu gagner (et parfois perdre) des capacités et des effe
 
 Les Terres d'Encres nous a apporté des personnages comme *Peter Pan - Chef des enfants perdus*, et *HeiHei - Explorateur accidentel*, dotés de capacités qui se déclenchent lorsqu'ils se déplacent vers un lieu. Les règles stipulent depuis longtemps qu'on ne peut quitter un lieu sans avoir un lieu vers lequel se déplacer, mais elles n'ont jamais précisé si l'on peut déplacer un personnage vers un lieu où il se trouve déjà – probablement parce que ce concept est difficilement appréhendable.
 
-C'est désormais officiel. Les personnages ne peuvent plus quitter un lieu à moins d'être déplacés vers un *autre*.
+C'est désormais officiel. Les personnages ne peuvent plus quitter un lieu à moins d'être déplacés vers un *autre* lieu.
 
 ```
 4.7.2. - Players can’t move a character from a location unless that character is being moved to another location.
@@ -451,7 +451,7 @@ Si vous êtes arrivé jusqu'ici, bravo ! Vous êtes tellement bien préparé pou
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-169" width="250" style="transform: rotate(90deg);border-radius:10px;" /></p>
 
-L'une des décisions les plus étranges des anciennes versions du CRD était que les capacités déclenchées au début du tour s'activaient pendant l'étape de Redressement de la phase de Début, puis restaient en suspens. Elles n'étaient mises dans le sac, l'endroit où elles se trouvent normalement, qu'à l'étape Vérifier – moment où elles se résolvaient immédiatement.
+L'une des décisions les plus étranges des anciennes versions du CRD était que les capacités déclenchées au début du tour se *déclenchaient* pendant l'étape de Redressement de la phase de Début, puis restaient en suspens. Elles n'étaient mises dans le sac, l'endroit où elles se trouvent normalement, qu'à l'étape Vérifier – moment où elles se résolvaient immédiatement.
 
 Heureusement, les capacités déclenchées au début du tour sont désormais directement placées dans le sac lorsqu'elles se déclenchent. Fini les attentes embarrassantes pendant que les joueurs gagnent le lore de leurs lieux.
 
