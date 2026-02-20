@@ -7,10 +7,10 @@
 - [1. Première partie – Changements de règles](#1.)
     - [1) Les conditions secondaires ("si") sont simplifiées](#1.1.)
     - [2) "Gratuitement" est maintenant un coût alternatif](#1.2.)
-    - [3) "Reçoit des dommages" et "a subi des dommages"](#1.3.)
+    - [3) "Subir des dommages" et "a subi des dommages"](#1.3.)
     - [4) Vous perdez maintenant sans carte dans votre pioche à la fin de votre tour](#1.4.)
     - [5) Les effets de remplacement sont simplifiés](#1.5.)
-    - [6) [A] pour [B] ne représente (en général) plus un Coût](#1.6.)
+    - [6) \[A\] pour \[B\] ne représente (en général) plus un Coût](#1.6.)
     - [7) Le terme "encrer" est clarifié (et légèrement modifié)](#1.7.)
 - [2. Deuxième partie – Ajouts aux règles](#2.)
     - [1) Les dommages doivent être déplacés vers une "autre" carte](#2.1.)
@@ -25,7 +25,7 @@
     - [3) Nous savons quand un personnage "a été envoyé à l'aventure"](#3.3.)
     - [4) Quand est-ce qu'une capacité optionnelle "une fois" est "consommée"](#3.4.)
     - [5) Résolvez les effets dans l'ordre où ils sont écrits](#3.5.)
-    - [6) [A] ou [B] doit être possible à résoudre](#3.6.)
+    - [6) \[A\] ou \[B\] doit être possible à résoudre](#3.6.)
     - [7) Quand compter "pour chacun" et "jusqu’à"](#3.7.)
     - [8) Définition de "dernière information connue"](#3.8.)
     - [9) Perte des informations de la carte en quittant la zone de jeu](#3.9.)
@@ -97,7 +97,7 @@ Cela modifie également le type de coûts que « gratuitement » permet de ne pa
 
 <details>
     <summary>Voir un exemple :</summary>
-<p align="center"><img src="https://wiki.mushureport.com/images/d/d0/RetroEvolutionDevice-11-100FR.png" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-111" width="250" style="border-radius: 10px;" /></p>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/011/67a5e514fd3c833deb364997a85a17dcf01953ad" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/009-111" width="250" style="border-radius: 10px;" /></p>
 
 Auparavant, il était possible d'utiliser le *Rétro-Fusil à évolution* et bannir un de vos personnages avec un coût de 1 pour jouer *Mickey Mouse – Brave petit prince* en Alter sur une autre version de *Mickey Mouse* déjà en jeu. Cela permettait de profiter immédiatement des avantages de *Couronné de gloire* sans payer son coût d'Alter.
 
@@ -110,26 +110,40 @@ Maintenant, vous ne pouvez plus choisir de jouer en Alter un personnage lorsque 
 4.3.2.2. - [...] If the card is played for the alternate cost of “for free,” that alternate cost is immediately chosen, and the player ignores all costs to play the card and skips directly to 4.3.3.
 ```
 <a name="1.3."></a>
-### 3) "Reçoit des dommages" et "a subi des dommages"
+### 3) "Subir des dommages" et "a subi des dommages"
 
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/89a91fbc622c264b37c4649cc66129d122ac5a4b" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="250" style="border-radius: 10px;" /></p>
 
 >NdT : Le paragraphe suivant fait référence à des formulations précises écrites sur les cartes en anglais, les traductions des cartes concernées en français ne suivent pas forcément la même formulation, et l'entrée citée n'existait pas dans le glossaire en français, il est donc plus efficace de donner la liste des 8 cartes concernées par l'évolution de règle que les formulations exactes qu'elles utilisent en français, ci-dessous :
 ><p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/003-108" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-176" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-109" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-125" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-196" width="125" style="border-radius: 5px;" /></p>
 
-Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « subit/a *subi* des dommages », ce qui limitait son application à certaines façons d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « reçoit des dommage ».
+Précédemment, il était précisé dans le glossaire que le terme « est/a été endommagé » était équivalent à « infligé/*s'est vu infliger* des dommages », ce qui limitait son application à certaines façons d'endommager les personnages. Cette entrée a été remplacée et une règle a été ajoutée stipulant que cela signifie désormais « subir des dommage ».
 
-Alors… que signifie « recevoir des dommages » ? C’est nouveau aussi ! « Recevoir des dommages » signifie recevoir des jetons dommages de *n'importe quelle* façon possibles : infliger des dommages, placer des dommages et les déplacer. Absolument tout ! Vous pouvez maintenant déclencher la capacité de cette bonne vieille *La Bête – Implacable* avec *Malin, Méchant, Villain* !
+Alors… que signifie « subir des dommages » ? C’est nouveau aussi ! « Subir des dommages » signifie recevoir des jetons dommages de *n'importe quelle* façon possibles : infliger des dommages, placer des dommages et les déplacer. Absolument tout ! Vous pouvez maintenant déclencher la capacité de cette bonne vieille *La Bête – Implacable* avec *Malin, Méchant, Villain* !
 
->NdT : Le verbe « recevoir » est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre » ou toute autre traduction valable de « to take ». La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir » qui est la traduction du terme anglais « to be dealt », et donc ne correspond pas au comportement prévu par la capacité de Lilo.
+>NdT : ~~Le verbe « recevoir » est utilisé ici pour traduire le verbe anglais « to take » , le terme exact qui sera utilisé par l'équipe de traduction n'est pas encore connu, celui-ci pourrait être « prendre » ou toute autre traduction valable de « to take ». La seule carte utilisant actuellement le terme de façon fonctionnelle vis à vis des règles du jeu est *Lilo - Bien emmitouflée*, cependant celle-ci présente une erreur de traduction par l'utilisation du terme français « subir » qui est la traduction du terme anglais « to be dealt », et donc ne correspond pas au comportement prévu par la capacité de Lilo.~~
+>
+>La notion en français de "subir" a évolué avec le set 11, celle-ci était précédemment la forme passive de "infliger", elle a été re-définie comme étant la traduction de "to take" en anglais, qui a pu être traduit de façon non officielle précédemment par "prendre" ou "recevoir" pour la séparer de l'ancien sens de "subir". Cet article est donc une traduction qui n'a du sens qu'en anglais mais plus avec les versions françaises.
+>
+>Afin de correctement séparer les effets de *Raiponce - Parée pour l'aventure* et *Lilo - Bien emmitouflée*, c'est finalement Raiponce qui a reçu un errata sur l'application officielle et dont le texte de la capacité *Geste Altruiste* devient "*Chaque fois que l’un de vos personnages est choisi par la capacité **Soutien**, jusqu’au début de votre prochain tour, la prochaine fois que des dommages doivent être <ins>infligés</ins> à ce personnage-là, aucun n’est infligé à la place.*".
+>
+>De plus les capacités de *Hercule - Puissant meneur* ont également été erratées, *Toujours vigilant* devient "*Aucun dommage ne peut être <ins>infligé</ins> à ce personnage, hormis lorsqu’il est défié.*" et *Toujours vaillant* devient "*Tant que ce personnage est épuisé, aucun dommage ne peut être <ins>infligé</ins> à vos autres personnages Héros, hormis lorsqu’ils sont défiés.*".
+>
+>
+>A noter que ceci rend la plupart des cartes concernées par 1.9.2 cohérentes en français avec la nouvelle définition de subir, il reste tout de fois 4 cartes non erratées dont la formulation n'est pas bonne en français, à savoir :
+>- *La Bête - Implacable* dont la capacité *Second souffle* devrait être changée en "*Chaque fois qu'un personnage adverse <ins>subit</ins> des dommages, vous pouvez redresser ce personnage.*"
+>- *Le Diamant Œil-du-Diable* dont la capacité *Le prix du pouvoir* devrait être changée en "*Si l'un de vos personnages <ins>a subi</ins> des dommages ce tour-ci, gagnez 1 éclat de Lore.*"
+>- *Chef Bogo - Prend les décisions* dont la capacité *Ma juridiction* devrait être changée en "*Durant votre tour, aucun dommage ne peut être <ins>infligé</ins> à ce personnage.*"
+>- La carte de Quete des Illumineurs *Bassin ardent* dont la capacité *Affronter les flammes* devrait être changée en "*Au début du tour de Jafar, il bannit cet objet et chaque Illumineur doit doit choisir l'un de ses personnages et lui <ins>infiger</ins> 4 dommages.*"
+><p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/010/185a15156afe312766185d91be67a79d31d4965c" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/7c3e6b4bf28ee05fda1a82db1bd3f1b5b4383cff" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/002-070" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-152" width="125" style="border-radius: 5px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/010/155cf832e308da2ff9bac2463b6476a4150ac460" width="125" style="border-radius: 5px;" /> <img src="https://api.lorcana.ravensburger.com/images/fr/quest2/26_9237df700221e97cf34538e223a2e057c386643b.jpg" width="125" style="border-radius: 5px;" /></p>
 
 <details>
     <summary>Voir un exemple :</summary>
 <p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/006-096" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/007-218" width="250" style="border-radius: 10px;" /></p>
 
-Auparavant, si vous activiez *Le Diamant Œil-du-Diable* après avoir utilisé *Piqûre de moustique* pour placer un jeton dommage à l'un de vos personnages, vous ne gagniez pas de lore. En effet, *Piqûre de moustique* n'inflige pas de dommage, *Le Diamant Œil-du-Diable* ne pouvait donc pas voir que votre personnage avait « subi des dommages » .
+Auparavant, si vous activiez *Le Diamant Œil-du-Diable* après avoir utilisé *Piqûre de moustique* pour placer un jeton dommage à l'un de vos personnages, vous ne gagniez pas de lore. En effet, *Piqûre de moustique* n'inflige pas de dommage, *Le Diamant Œil-du-Diable* ne pouvait donc pas voir que votre personnage s'était vu « infliger des dommages » .
 
-Maintenant que « s'est vu infliger des dommages » est équivalent à « a reçu des dommages », et que « recevoir » couvre toutes les formes d'application des dommages, cette (très mauvaise) combo fonctionne enfin.
+Maintenant que « s'est vu infliger des dommages » est équivalent à « a subi des dommages », et que « subir » couvre toutes les formes d'application des dommages, cette (très mauvaise) combo fonctionne enfin.
 </details>
 
 ```
@@ -255,7 +269,7 @@ Vous avez *Elisa Maza* en jeu, ce qui empêche la Force de vos personnages de de
 <a name="2.3."></a>
 ### 3) Un processus complet pour la résolution des effets
 
-<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-149" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-079" width="250" style="border-radius: 10px;" /> <img src="https://wiki.mushureport.com/images/f/fe/JohnSmith-UndauntedProtector-11-193FR.png" width="250" style="border-radius: 10px;" /></p>
+<p align="center"><img src="https://cdn.dreamborn.ink/images/fr/cards/008-149" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/008-079" width="250" style="border-radius: 10px;" /> <img src="https://cdn.dreamborn.ink/images/fr/cards/011/e907d135a54dbf6138896d013ebf309bfd2786cd" width="250" style="border-radius: 10px;" /></p>
 
 Les règles détaillent désormais précisément comment résoudre les effets de cartes, qu'il s'agisse d'actions ou de capacités. Elles définissent un ordre pour définir les décomptes de certaines capacités, le moment où calculer les dommages infligés, et même quand les choix sont faits lors de la résolution d'un effet. Cela clarifie de nombreuses questions que nous nous posions, notamment concernant la nouvelle carte *John Smith – Protecteur Impavide*, dont la capacité exige qu'il soit choisi pour les actions et les capacités chaque fois que son adversaire le peut.
 
